@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_LEI_PORTFOLIO/static/css/main.b5e17858.css",
+    "main.js": "/react_LEI_PORTFOLIO/static/js/main.8c6ec60a.js",
+    "index.html": "/react_LEI_PORTFOLIO/index.html",
+    "main.b5e17858.css.map": "/react_LEI_PORTFOLIO/static/css/main.b5e17858.css.map",
+    "main.8c6ec60a.js.map": "/react_LEI_PORTFOLIO/static/js/main.8c6ec60a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5e17858.css",
+    "static/js/main.8c6ec60a.js"
+  ]
+}
